@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/dell/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/dell/temp/Work_Android/Reserva/app/build/intermediates/pre-dexed/release/support-annotations-22.1.1-4e5d4fdef22141a1c4e08a5b71f4f175e9cf7250.jar" />
+    </item>
+    <item
+        jar="/home/dell/temp/Work_Android/Reserva/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/dell/temp/Work_Android/Reserva/app/build/intermediates/pre-dexed/release/internal_impl-22.1.1-108ba79b6f248d6335460af79568745391e25775.jar" />
+    </item>
+    <item
+        jar="/home/dell/temp/Work_Android/Reserva/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/dell/temp/Work_Android/Reserva/app/build/intermediates/pre-dexed/release/classes-7be86b1463135ad940dff0cc72398f7a6a9690d0.jar" />
+    </item>
+    <item
+        jar="/home/dell/temp/Work_Android/Reserva/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/dell/temp/Work_Android/Reserva/app/build/intermediates/pre-dexed/release/classes-39c9f921132ae30e21cf5127921f789f0c1dd3fc.jar" />
+    </item>
+    <item
+        jar="/home/dell/temp/Work_Android/Reserva/app/build/intermediates/exploded-aar/com.etsy.android.grid/library/1.0.5/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="/home/dell/temp/Work_Android/Reserva/app/build/intermediates/pre-dexed/release/classes-9abef35ab99750bcdb8b86824796b8f251213a6d.jar" />
+    </item>
+
+</items>
